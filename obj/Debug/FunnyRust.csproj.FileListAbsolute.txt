@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\FunnyRust\FunnyRust\bin\Debug\FunnyRust.exe.config
+C:\Users\Admin\source\repos\FunnyRust\FunnyRust\bin\Debug\FunnyRust.exe
+C:\Users\Admin\source\repos\FunnyRust\FunnyRust\bin\Debug\FunnyRust.pdb
+C:\Users\Admin\source\repos\FunnyRust\FunnyRust\obj\Debug\FunnyRust.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\FunnyRust\FunnyRust\obj\Debug\FunnyRust.FunnyRust.resources
+C:\Users\Admin\source\repos\FunnyRust\FunnyRust\obj\Debug\FunnyRust.Properties.Resources.resources
+C:\Users\Admin\source\repos\FunnyRust\FunnyRust\obj\Debug\FunnyRust.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\FunnyRust\FunnyRust\obj\Debug\FunnyRust.exe
+C:\Users\Admin\source\repos\FunnyRust\FunnyRust\obj\Debug\FunnyRust.pdb
+C:\Users\Admin\source\repos\FunnyRust\FunnyRust\obj\Debug\FunnyRust.PlayerControl.resources
